@@ -361,9 +361,9 @@ a:hover {
 }
 
 .btn-sm {
-    padding: 0.15rem 0.3rem;
-    font-size: 0.65rem;
-    height: 20px;
+    padding: 0.35rem 0.6rem;
+    font-size: 0.85rem;
+    min-height: 32px;
 }
 
 .btn-lg {
@@ -377,15 +377,15 @@ a:hover {
    ═══════════════════════════════════════════════════════════════ */
 
 .form-group {
-    margin-bottom: 0.25rem;
+    margin-bottom: 0.75rem;
 }
 
 .form-label {
     display: block;
-    margin-bottom: 0.1rem;
+    margin-bottom: 0.4rem;
     font-weight: 500;
     color: var(--text-primary);
-    font-size: 0.7rem;
+    font-size: 0.9rem;
 }
 
 .form-control,
@@ -443,11 +443,11 @@ textarea.form-control {
 }
 
 .table thead th {
-    padding: 0.2rem 0.3rem;
+    padding: 0.6rem 0.8rem;
     text-align: left;
     font-weight: 600;
     color: var(--white);
-    font-size: 0.7rem;
+    font-size: 0.9rem;
 }
 
 .table tbody tr {
@@ -464,9 +464,9 @@ textarea.form-control {
 }
 
 .table tbody td {
-    padding: 0.2rem 0.3rem;
+    padding: 0.6rem 0.8rem;
     color: var(--text-secondary);
-    font-size: 0.7rem;
+    font-size: 0.9rem;
 }
 
 .table tbody td:first-child {
